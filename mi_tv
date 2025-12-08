@@ -1,0 +1,43 @@
+#EXTM3U
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/8ZR2XHN.png" group-title="Chile", TVN3 | FHD | Santiago
+https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/Sgawacf.png" group-title="Chile", TV Chile | HD | Santiago
+https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/PjAS6V9.png" group-title="Chile", UCV | HD | Valparaíso
+https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/4ZLt6ep.png" group-title="Chile", UCV2  | HD | Valparaíso
+https://unlimited1-cl-isp.dps.live/ucvtveventos/ucvtveventos.smil/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/9kp68rx.png" group-title="Chile", TV+ | FHD | Santiago
+https://jireh-5-hls-video-cl-movistar.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/tvmas/tvmas.smil/tvmas/livestream1/chunks.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/a6m1yWP.png" group-title="Chile", Mega | SD | Santiago
+https://unlimited1-cl-isp.dps.live/mega/mega.smil/mega/livestream0/chunks.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/a6m1yWP.png" group-title="Chile", Mega | HD | Santiago
+https://pantera1-100gb-cl-movistar.dps.live/mega/mega.smil/mega/livestream0/chunks.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/NNbnxfo.png" group-title="Chile", Chilevisión Noticias | FHD | Santiago
+https://mdstrm.com/live-stream-playlist/6491ced935a5833c47dd7f41.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/LmU7wOm.png" group-title="Chile", CHV | HD | Santiago
+http://38.250.127.17:9800/play/a05h/index.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/A4qzem2.png" group-title="Chile", Canal 13 | HD | Santiago
+https://m3u.cl/channel/c13.php
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/5pKOuAc.png" group-title="Chile", Tele 13 Radio | FHD | Santiago
+https://unlimited1-cl-isp.dps.live/t13radio/t13radio.smil/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/XsDkn3Y.png" group-title="Chile", Tele 13 | FHD | Santiago
+https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/xO40xQy.png" group-title="Chile", Canal 24 Horas | HD | Santiago
+https://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/VFyHcYC.png" group-title="Chile", CNN Chile | FHD | Santiago
+https://jireh-7-hls-video-cl-movistar.dps.live/hls-video/lvcl5/cnn/cnn.smil/cnn/livestream1/chunks.m3u8
