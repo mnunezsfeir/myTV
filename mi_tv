@@ -21,9 +21,6 @@ https://mdstrm.com/live-stream-playlist/6491ced935a5833c47dd7f41.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/LmU7wOm.png" group-title="Chile", CHV | HD | Santiago
 http://38.250.127.17:9800/play/a05h/index.m3u8
 
-#EXTINF:-1 tvg-name="Chilevisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Emblema_de_Chilevisi%C3%B3n.svg" group-title="Chile", Chilevisión
-https://marine2.miplay.cl/chvchile/index.m3u8
-
 #EXTINF: -1 tvg-logo="https://i.imgur.com/A4qzem2.png" group-title="Chile", Canal 13 | HD | Santiago
 https://m3u.cl/channel/c13.php
 
@@ -33,7 +30,7 @@ https://unlimited1-cl-isp.dps.live/t13radio/t13radio.smil/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/XsDkn3Y.png" group-title="Chile", Tele 13 | FHD | Santiago
 https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/xO40xQy.png" group-title="Chile", Canal 24 Horas | HD | Santiago
+#EXTINF: -1 tvg-logo="https://i.imgur.com/xO40xQy.png" group-title="Chile", TVN | HD | Santiago
 https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/VFyHcYC.png" group-title="Chile", CNN Chile | FHD | Santiago
