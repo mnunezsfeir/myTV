@@ -1,14 +1,5 @@
 #EXTM3U
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/8ZR2XHN.png" group-title="Chile", TVN3 | FHD | Santiago
-https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/PjAS6V9.png" group-title="Chile", UCV | HD | Valparaíso
-https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/4ZLt6ep.png" group-title="Chile", UCV2  | HD | Valparaíso
-https://unlimited1-cl-isp.dps.live/ucvtveventos/ucvtveventos.smil/playlist.m3u8
-
 #EXTINF: -1 tvg-logo="https://i.imgur.com/9kp68rx.png" group-title="Chile", TV+ | FHD | Santiago
 https://jireh-5-hls-video-cl-movistar.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/tvmas/tvmas.smil/tvmas/livestream1/chunks.m3u8
 
@@ -20,9 +11,6 @@ https://mdstrm.com/live-stream-playlist/6491ced935a5833c47dd7f41.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/LmU7wOm.png" group-title="Chile", CHV | HD | Santiago
 http://38.250.127.17:9800/play/a05h/index.m3u8
-
-#EXTINF:-1 tvg-id="1153" tvg-name="CHV" tvg-logo="https://cdn.m3u.cl/logo/1153_CHV.png", CHV ✪ | CL
-https://mdstrm.com/live-stream-playlist/6491ced935a5833c47dd7f41.m3u8?PlaylistM3UCL
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/A4qzem2.png" group-title="Chile", Canal 13 | HD | Santiago
 https://m3u.cl/channel/c13.php
