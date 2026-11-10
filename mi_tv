@@ -26,3 +26,109 @@ https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/VFyHcYC.png" group-title="Chile", CNN Chile | FHD | Santiago
 https://jireh-7-hls-video-cl-movistar.dps.live/hls-video/lvcl5/cnn/cnn.smil/cnn/livestream1/chunks.m3u8
+
+#EXTINF:0 group-title="General",13 C
+#EXTGRP:General
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0pm
+
+#EXTINF:0 group-title="Chile",CHV
+#EXTGRP:Chile
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0r0
+
+#EXTINF:0 group-title="Chile",CNN Chile
+#EXTGRP:Chile
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0qp
+
+#EXTINF:0 group-title="Noticias",CNN Español
+#EXTGRP:Noticias
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0p3
+
+#EXTINF:0 group-title="Chile",Canal 13
+#EXTGRP:Chile
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0n4
+
+#EXTINF:0 group-title="Chile",Canal 24 Horas
+#EXTGRP:Chile
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0qr
+
+#EXTINF:0 group-title="Deportes",ESPN
+#EXTGRP:Deportes
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0s7
+
+#EXTINF:0 group-title="Deportes",ESPN 2 HD
+#EXTGRP:Deportes
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0qj
+
+#EXTINF:0 group-title="Deportes",ESPN 3 HD
+#EXTGRP:Deportes
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0s6
+
+#EXTINF:0 group-title="Deportes",ESPN 4 HD
+#EXTGRP:Deportes
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0s9
+
+#EXTINF:0 group-title="Deportes",ESPN 5 HD
+#EXTGRP:Deportes
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0s5
+
+#EXTINF:0 group-title="Deportes",ESPN 6 HD
+#EXTGRP:Deportes
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0s3
+
+#EXTINF:0 group-title="Deportes",ESPN 7 HD
+#EXTGRP:Deportes
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0s8
+
+#EXTINF:0 group-title="Deportes",Espn Premium
+#EXTGRP:Deportes
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0r2
+
+#EXTINF:0 group-title="Chile",MEGA HD
+#EXTGRP:Chile
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0qn
+
+#EXTINF:0 group-title="Chile",Mega
+#EXTGRP:Chile
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0r1
+
+#EXTINF:0 group-title="Deportes",TNT SPORTS
+#EXTGRP:Deportes
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0mo
+
+#EXTINF:0 group-title="Deportes",TNT Sports Premium
+#EXTGRP:Deportes
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0q9
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/Chilevisi%C3%B3n_2018.svg" group-title="Chile",Chilevision
+#EXTGRP:Chile
+https://vmf.edge-online.chv.cl/chv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/TVN_logo_2020.svg" group-title="Chile",TVN
+#EXTGRP:Chile
+https://rudo.video/live/tvn
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Canal_13_logo_2018.svg" group-title="Chile",Canal 13
+#EXTGRP:Chile
+https://rudo.video/live/c13
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/Logo_Mega_2015.png" group-title="Chile",Mega
+#EXTGRP:Chile
+https://rudo.video/live/mega
