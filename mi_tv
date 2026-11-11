@@ -3,29 +3,25 @@
 #EXTINF: -1 tvg-logo="https://i.imgur.com/9kp68rx.png" group-title="Chile", TV+ | FHD | Santiago
 https://jireh-5-hls-video-cl-movistar.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/tvmas/tvmas.smil/tvmas/livestream1/chunks.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/a6m1yWP.png" group-title="Chile", Mega | HD | Santiago
+#EXTINF: -1 tvg-logo="https://i.imgur.com/a6m1yWP.png" group-title="Chile", Mega | HD | Santiago (opción 1)
 https://pantera1-100gb-cl-movistar.dps.live/mega/mega.smil/mega/livestream0/chunks.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/NNbnxfo.png" group-title="Chile", Chilevisión Noticias | FHD | Santiago
-https://mdstrm.com/live-stream-playlist/6491ced935a5833c47dd7f41.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/a6m1yWP.png" group-title="Chile", Mega | HD | Santiago (opción 2)
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0qn
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/LmU7wOm.png" group-title="Chile", CHV | HD | Santiago
-http://38.250.127.17:9800/play/a05h/index.m3u8
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/A4qzem2.png" group-title="Chile", Canal 13 | HD | Santiago
-https://m3u.cl/channel/c13.php
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/5pKOuAc.png" group-title="Chile", Tele 13 Radio | FHD | Santiago
+#EXTINF: -1 tvg-logo="https://i.imgur.com/A4qzem2.png" group-title="Chile", Canal 13 | HD | Santiago (opción 1)
 https://unlimited1-cl-isp.dps.live/t13radio/t13radio.smil/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/A4qzem2.png" group-title="Chile", Canal 13 | HD | Santiago (opción 2)
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0n4
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/XsDkn3Y.png" group-title="Chile", Tele 13 | FHD | Santiago
 https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/xO40xQy.png" group-title="Chile", TVN | HD | Santiago
 https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/VFyHcYC.png" group-title="Chile", CNN Chile | FHD | Santiago
-https://jireh-7-hls-video-cl-movistar.dps.live/hls-video/lvcl5/cnn/cnn.smil/cnn/livestream1/chunks.m3u8
 
 #EXTINF:0 group-title="General",13 C
 #EXTGRP:General
@@ -37,25 +33,10 @@ http://181.78.79.131:8000/play/a0pm
 #EXTVLCOPT:network-caching=1000
 http://181.78.79.131:8000/play/a0r0
 
-#EXTINF:0 group-title="Chile",CNN Chile
-#EXTGRP:Chile
-#EXTVLCOPT:network-caching=1000
-http://181.78.79.131:8000/play/a0qp
-
 #EXTINF:0 group-title="Noticias",CNN Español
 #EXTGRP:Noticias
 #EXTVLCOPT:network-caching=1000
 http://181.78.79.131:8000/play/a0p3
-
-#EXTINF:0 group-title="Chile",Canal 13
-#EXTGRP:Chile
-#EXTVLCOPT:network-caching=1000
-http://181.78.79.131:8000/play/a0n4
-
-#EXTINF:0 group-title="Chile",Canal 24 Horas
-#EXTGRP:Chile
-#EXTVLCOPT:network-caching=1000
-http://181.78.79.131:8000/play/a0qr
 
 #EXTINF:0 group-title="Deportes",ESPN
 #EXTGRP:Deportes
@@ -97,16 +78,6 @@ http://181.78.79.131:8000/play/a0s8
 #EXTVLCOPT:network-caching=1000
 http://181.78.79.131:8000/play/a0r2
 
-#EXTINF:0 group-title="Chile",MEGA HD
-#EXTGRP:Chile
-#EXTVLCOPT:network-caching=1000
-http://181.78.79.131:8000/play/a0qn
-
-#EXTINF:0 group-title="Chile",Mega
-#EXTGRP:Chile
-#EXTVLCOPT:network-caching=1000
-http://181.78.79.131:8000/play/a0r1
-
 #EXTINF:0 group-title="Deportes",TNT SPORTS
 #EXTGRP:Deportes
 #EXTVLCOPT:network-caching=1000
@@ -117,18 +88,4 @@ http://181.78.79.131:8000/play/a0mo
 #EXTVLCOPT:network-caching=1000
 http://181.78.79.131:8000/play/a0q9
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/Chilevisi%C3%B3n_2018.svg" group-title="Chile",Chilevision
-#EXTGRP:Chile
-https://vmf.edge-online.chv.cl/chv/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/TVN_logo_2020.svg" group-title="Chile",TVN
-#EXTGRP:Chile
-https://rudo.video/live/tvn
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Canal_13_logo_2018.svg" group-title="Chile",Canal 13
-#EXTGRP:Chile
-https://rudo.video/live/c13
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/Logo_Mega_2015.png" group-title="Chile",Mega
-#EXTGRP:Chile
-https://rudo.video/live/mega
