@@ -28,6 +28,7 @@ https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
 #EXTVLCOPT:network-caching=1000
 http://181.78.79.131:8000/play/a0pm
 
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/Logotipo_Principal_de_Chilevisi%C3%B3n.svg?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Chile", CHV
 #EXTINF:0 group-title="Chile",CHV
 #EXTGRP:Chile
 #EXTVLCOPT:network-caching=1000
